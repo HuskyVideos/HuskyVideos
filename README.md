@@ -1,4 +1,5 @@
 # Husky
+pfp kindly stolen from (さよっさ)[https://www.pixiv.net/users/275680]
 
 ## Who am I
 A nuisance mostly, though in my spare time I somtimes code.
